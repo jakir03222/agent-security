@@ -17,7 +17,6 @@ build/
 !.env.example
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -200,3 +199,7 @@ apps/*/.dev-server.exe
 # next one cannot.
 image.png
 **/image.png
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
